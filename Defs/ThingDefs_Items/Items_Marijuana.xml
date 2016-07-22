@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Resources>
+
+  <!--=================== Plant products ===============-->
+
+  <ThingDef Abstract="True" ParentName="ResourceBase" Name="PlantProductBase">
+    <graphicData>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Grain_Drop</soundInteract>
+    <soundDrop>Grain_Drop</soundDrop>
+    <socialPropernessMatters>true</socialPropernessMatters>
+    <statBases>
+      <MaxHitPoints>100</MaxHitPoints>
+      <Flammability>1.0</Flammability>
+      <DeteriorationRate>3</DeteriorationRate>
+    </statBases>
+    <tickerType>Rare</tickerType>
+  </ThingDef>
+
+  <ThingDef Abstract="True" ParentName="PlantProductBase" Name="RawFoodBase">
+    <ingestible>
+      <preferability>Raw</preferability>
+      <nutrition>0.05</nutrition>
+      <eatEffect>EatVegetarian</eatEffect>
+      <soundEat>RawVegetable_Eat</soundEat>
+    </ingestible>
+    <thingCategories>
+      <li>PlantFoodRaw</li>
+    </thingCategories>
+  </ThingDef>
+
+  
+  
+
+  <ThingDef ParentName="PlantProductBase">
+    <defName>Marijuana</defName>
+    <label>marijuana</label>
+    <description>The dried flowers and subtending leaves and stems of the female cannabis plant. It contains tetrahydrocannabinol.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/Marijuana</texPath>
+    </graphicData>
+    <statBases>
+      <MarketValue>2.0</MarketValue>
+    </statBases>
+    <thingCategories>
+      <li>ResourcesRaw</li>
+    </thingCategories>
+    <comps>
+      <li Class="CompProperties_Rottable">
+        <daysToRotStart>25</daysToRotStart>
+        <rotDestroys>true</rotDestroys>
+      </li>
+    </comps>
+  </ThingDef>
+  
+
+
+</Resources>

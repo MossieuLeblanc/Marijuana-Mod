@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+
+  <ThoughtDef>
+    <defName>Marijuana</defName>
+    <workerClass>ThoughtWorker_Hediff</workerClass>
+    <hediff>Marijuana</hediff>
+    <stages>
+      <li>
+        <label>buzzed-hidden</label>
+        <description>Should not appear.</description>
+        <baseMoodEffect>0</baseMoodEffect>
+        <visible>false</visible>
+      </li>
+      <li>
+        <label>Stoned (relaxed)</label>
+        <description>I just feel a bit more relaxed after that smoke. This is some good stuff.</description>
+        <baseMoodEffect>10</baseMoodEffect>
+      </li>
+      <li>
+        <label>Stoned (warm)</label>
+        <description>I feel very warm! And this is quite enjoyable.</description>
+        <baseMoodEffect>15</baseMoodEffect>
+      </li>     
+      <li>
+        <label>Stoned (high)</label>
+        <description>I'm so high right now! This is a great time!</description>
+        <baseMoodEffect>20</baseMoodEffect>
+      </li>
+      <li>
+        <label>Stoned (flying)</label>
+        <description>Holy shit! I'm flying so high!</description>
+        <baseMoodEffect>25</baseMoodEffect>
+      </li>   
+    </stages>
+  </ThoughtDef>
+
+
+
+</Defs>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ResearchProjectDefs>
+    
+    
+
+    <ResearchProjectDef>
+		<defName>PsychoactiveDrugs</defName>
+		<label>Psychoactive drugs</label>
+		<description>Allows you to plant cannabis plants to harvest their leaves and stems. The harvest is then used to roll paper-wrapped joints.</description>
+		<baseCost>420</baseCost>
+		<techLevel>Medieval</techLevel>
+	</ResearchProjectDef>
+
+
+
+</ResearchProjectDefs>

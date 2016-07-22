@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <!--================== Drugs ==================-->
+
+
+  <ThingDef ParentName="MealBase">
+    <defName>Joint</defName>
+    <label>joint</label>
+    <description>A paper-wrapped joint used to inhale vaporized cannabinoids.</description>
+    <graphicData>
+      <texPath>Things/Item/Resource/Joint</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+    </graphicData>
+    <equippedAngleOffset>-150</equippedAngleOffset>
+    <rotatable>false</rotatable>
+    <stackLimit>25</stackLimit>
+    <statBases>
+      <MaxHitPoints>100</MaxHitPoints>
+      <MarketValue>9</MarketValue>
+      <Flammability>1.0</Flammability>
+      <DeteriorationRate>0.2</DeteriorationRate>
+    </statBases>
+    <ingestible>
+      <preferability>NeverForNutrition</preferability>
+      <foodType>Processed, Liquor</foodType>
+      <nutrition>0.04</nutrition>
+      <joy>0.12</joy>
+      <joyKind>Chemical</joyKind>
+      <maxNumToIngestAtOnce>1</maxNumToIngestAtOnce>
+      <soundEat>Harvest_Standard</soundEat>
+      <isPleasureDrug>true</isPleasureDrug>
+      <hediffGivers>
+        <li>
+          <chance>1</chance>
+          <hediffDef>Marijuana</hediffDef>
+        </li>
+      </hediffGivers>
+    </ingestible>
+  </ThingDef>
+
+
+
+
+</Defs>

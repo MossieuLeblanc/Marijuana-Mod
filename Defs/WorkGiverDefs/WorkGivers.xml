@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<WorkGivers>
+
+
+  <WorkGiverDef>
+    <defName>DoBillsRollJoint</defName>
+    <label>roll joints</label>
+    <giverClass>WorkGiver_DoBill</giverClass>
+    <workType>Crafting</workType>
+    <priorityInType>94</priorityInType>
+    <fixedBillGiverDefs>
+       <li>MarijuanaTable</li>
+    </fixedBillGiverDefs>
+    <verb>roll</verb>
+    <gerund>rolling joints at</gerund>
+    <requiredCapacities>
+      <li>Manipulation</li>
+    </requiredCapacities>
+  </WorkGiverDef>
+
+
+</WorkGivers>

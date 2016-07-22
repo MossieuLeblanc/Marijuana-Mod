@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+
+  <RecipeDef>
+    <defName>RollJoint</defName>
+    <label>roll joints</label>
+    <description>Roll some joints from marijuana.</description>
+    <jobString>Rolling joints.</jobString>
+    <workSpeedStat>PlantWorkSpeed</workSpeedStat>
+    <effectWorking>Cremate</effectWorking>
+    <soundWorking>Recipe_Tailor</soundWorking>
+    <allowMixingIngredients>true</allowMixingIngredients>
+    <workAmount>1000</workAmount>
+    <targetCountAdjustment>1</targetCountAdjustment>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Marijuana</li>
+          </thingDefs>
+        </filter>
+        <count>20</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Marijuana</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <Joint>3</Joint>
+    </products>
+    <workSkill>Crafting</workSkill>
+  </RecipeDef>
+
+
+
+</Defs>

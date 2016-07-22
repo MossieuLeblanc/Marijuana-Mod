@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  
+    <TaleDef>
+    <defName>High</defName>
+    <label>high</label>
+    <taleClass>Tale_SinglePawn</taleClass>
+    <type>Volatile</type>
+    <baseInterest>0.35</baseInterest>
+    <rulePack>
+      <rulesStrings>
+        <li>tale_noun->[pawn_nameShortDef] is high like a kite</li>
+        <li>image->[pawn_nameFull] enjoing a good smoke [circumstance_group]</li>
+        <li>image->[pawn_nameFull] inhales smoke from [pawn_possessive] joint [circumstance_group]</li>
+        <li>image->[pawn_nameFull] holding a glimming joint [circumstance_group]</li>
+        <li>image->[pawn_nameFull] smoking [pawn_objective]selve retarded [circumstance_group]</li>
+        <li>circumstance_phrase->oblivious to [pawn_possessive] surroundings</li>
+        <li>circumstance_phrase->giggeling heavely</li>
+        <li>circumstance_phrase->while questioning [pawn_possessive] own existence</li>
+        <li>circumstance_phrase->while trying to get [pawn_possessive] joint running</li>
+        <li>circumstance_phrase->while chuckling madly</li>
+        <li>circumstance_phrase->while having [pawn_possessive] eyes half shut </li>
+        <li>circumstance_phrase->while looking dull</li>
+        <li>circumstance_phrase->while smiling at people around [pawn_objective]</li>
+        <li>circumstance_phrase->while thinking deeply</li>
+        <li>circumstance_phrase->while trying to get rid of the munchies</li>
+        <li>circumstance_phrase->with a confused look at [pawn_possessive] face </li>
+        <li>circumstance_phrase->without a care in the world</li>
+        <li>circumstance_phrase->while reviewing all the good things in the world</li>
+        <li>desc_sentence->[pawn_pronoun] seems totally unaware of what is around [pawn_objective].</li>
+        <li>desc_sentence->[pawn_pronoun] is looking at [pawn_possessive] hands while turning them slowly</li>
+        <li>desc_sentence->[pawn_pronoun] is laughing heavily, [pawn_possessive] eyes are red like ruby</li>
+        <li>desc_sentence->[pawn_pronoun] looks happy but a little dull</li>
+        <li>desc_sentence->[pawn_pronoun] has ash on [pawn_possessive] pants.</li>
+        <li>desc_sentence->There is a trail of sweet smoke behind [pawn_objective].</li>
+        <li>desc_sentence->[pawn_pronoun] is constantly giggeling </li>
+        <li>desc_sentence->[pawn_possessive] seems a little slow</li>
+      </rulesStrings>
+    </rulePack>
+  </TaleDef>
+
+</Defs>
