@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>  
+
+    <High.label>défoncé</High.label>
+
+      <High.rulePack.rulesStrings.0>tale_noun->[pawn_nameShortDef] est défoncé à la mari-jeanne</High.rulePack.rulesStrings.0>
+
+        <High.rulePack.rulesStrings.0>image->[pawn_nameFull] profitant d'une bonne latte [circumstance_group]</High.rulePack.rulesStrings.0>
+         <High.rulePack.rulesStrings.1>image->[pawn_nameFull] inhalant de la fumer de son joint [circumstance_group]</High.rulePack.rulesStrings.1>
+         <High.rulePack.rulesStrings.2>image->[pawn_nameFull] tenant un joint étincelant [circumstance_group]</High.rulePack.rulesStrings.2>
+         <High.rulePack.rulesStrings.3>image->[pawn_nameFull] fumant en étant fracassé [circumstance_group]</High.rulePack.rulesStrings.3>
+         <High.rulePack.rulesStrings.4>circumstance_phrase->inconscient(e) de ce qui l'entoure</High.rulePack.rulesStrings.4>
+         <High.rulePack.rulesStrings.5>circumstance_phrase->ayant un fou rire</High.rulePack.rulesStrings.5>
+         <High.rulePack.rulesStrings.6>circumstance_phrase->tandis qu'il se questionne sur son existence</High.rulePack.rulesStrings.6>
+         <High.rulePack.rulesStrings.7>circumstance_phrase->tandis qu'[pawn_possessive] essaye de rallumer son joint</High.rulePack.rulesStrings.7>
+         <High.rulePack.rulesStrings.8>circumstance_phrase->tandis qu'[pawn_possessive] glousse follement</High.rulePack.rulesStrings.8>
+         <High.rulePack.rulesStrings.9>circumstance_phrase->tandis que ses yeux sont à moitié fermés</High.rulePack.rulesStrings.9>
+         <High.rulePack.rulesStrings.10>circumstance_phrase->tandis qu'[pawn_possessive] a un regard terne</High.rulePack.rulesStrings.10>
+         <High.rulePack.rulesStrings.11>circumstance_phrase->tandis qu'il sourit aux gens qui l'entourent</High.rulePack.rulesStrings.11>
+         <High.rulePack.rulesStrings.12>circumstance_phrase->tandis qu'il médite profondément</High.rulePack.rulesStrings.12>
+        <High.rulePack.rulesStrings.13>circumstance_phrase->tandis qu'il lutte contre sa fringale</High.rulePack.rulesStrings.13>
+        <High.rulePack.rulesStrings.14>circumstance_phrase->avec un regard confu</High.rulePack.rulesStrings.14>
+        <High.rulePack.rulesStrings.15>circumstance_phrase->sans s'occuper de ce qui se passe dans le monde</High.rulePack.rulesStrings.15>
+        <High.rulePack.rulesStrings.16>circumstance_phrase->tandis qu'il repense à toutes les belles choses de la vie</High.rulePack.rulesStrings.16>
+        <High.rulePack.rulesStrings.17>desc_sentence->[pawn_pronoun] semble totalement inconscient de ce qui l'entoure.</High.rulePack.rulesStrings.17>
+        <High.rulePack.rulesStrings.18>desc_sentence->[pawn_pronoun] regarde ses mains en les tournant lentement</High.rulePack.rulesStrings.18>
+        <High.rulePack.rulesStrings.19>desc_sentence->[pawn_pronoun] rigole bruyament, ses yeux sont rouges comme des rubis.</High.rulePack.rulesStrings.19>
+        <High.rulePack.rulesStrings.20>desc_sentence->[pawn_pronoun] semble content mais un peu ramolli</High.rulePack.rulesStrings.20>
+        <High.rulePack.rulesStrings.21>desc_sentence->[pawn_pronoun] a des cendres sur son pantalon.</High.rulePack.rulesStrings.21>
+        <High.rulePack.rulesStrings.22>desc_sentence->Il y a un nuage de fumée derrière lui/elle.</High.rulePack.rulesStrings.22>
+        <High.rulePack.rulesStrings.23>desc_sentence->[pawn_pronoun] est dans un fou rire constant</High.rulePack.rulesStrings.23>
+        <High.rulePack.rulesStrings.24>desc_sentence->[pawn_possessive] semble un peu au ralenti</High.rulePack.rulesStrings.24>
+
+
+</LanguageData>

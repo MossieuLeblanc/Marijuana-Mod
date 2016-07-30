@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+
+        <Marijuana.stages.0.label>bug caché</Marijuana.stages.0.label>
+        <Marijuana.stages.0.description>Ne devrait pas apparaître.</Marijuana.stages.0.description>
+
+        <Marijuana.stages.1.label>Stone (relaxé)</Marijuana.stages.1.label>
+        <Marijuana.stages.1.description>Je me suis senti un peu relaxé après ce joint. C'est plutôt de la bonne.</Marijuana.stages.1.description>
+		
+        <Marijuana.stages.2.label>Stone (réchauffé)</Marijuana.stages.2.label>
+        <Marijuana.stages.2.description>Je me sens chaud! Et c'est plutôt agréable.</Marijuana.stages.2.description>
+
+        <Marijuana.stages.3.label>Stone (défoncé)</Marijuana.stages.3.label>
+        <Marijuana.stages.3.description>Je suis tellement défoncé, là! C'est un super moment!</Marijuana.stages.3.description>
+		
+        <Marijuana.stages.4.label>Stone (plane)</Marijuana.stages.4.label>
+        <Marijuana.stages.4.description>Oh putain! Je plane tellement haut!</Marijuana.stages.4.description>
+
+
+</LanguageData>  
