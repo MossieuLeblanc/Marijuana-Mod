@@ -1,4 +1,4 @@
-﻿Mod : https://ludeon.com/forums/index.php?topic=22120 
+﻿Mod : https://ludeon.com/forums/index.php?topic=17233.15
 
 traducteur:
 Jozay / MossieuLeblanc : https://github.com/MossieuLeblanc
